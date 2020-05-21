@@ -1,0 +1,10 @@
+[package]
+name = "did-parser"
+version = "0.1.0"
+authors = ["Dave Bryson"]
+edition = "2018"
+keywords = ["did", "identity"]
+description = "Parser for decentralized identifiers (DIDs)"
+
+[dependencies]
+nom = "5.1.0"
